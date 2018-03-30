@@ -1,3 +1,6 @@
+/*
+ * Author: Khanh Le
+ */
 #ifndef LIBRARY_H
 #define LIBRARY_H
 
