@@ -1,3 +1,6 @@
+/*
+ * Author: Khanh Le
+ */
 #include "networks.h"
 #include "library.h"
 #include <unistd.h>
